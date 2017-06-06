@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ag-grid</artifactId>
-    <version>10.0.1-SNAPSHOT</version>
+    <version>10.0.1</version>
     <name>ag-grid</name>
     <description>WebJar for ag-grid</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/ag-grid</url>
         <connection>scm:git:https://github.com/webjars/ag-grid.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ag-grid.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ag-grid-10.0.1</tag>
     </scm>
     
     <build>
